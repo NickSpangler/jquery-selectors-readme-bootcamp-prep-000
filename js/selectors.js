@@ -12,9 +12,9 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return (".pics")
+  return ("div.pics")
 }
 
 function firstListItem() {
-  return ("#pic-list:first-child")
+  return ("ul#pic-list:first-child")
 }
